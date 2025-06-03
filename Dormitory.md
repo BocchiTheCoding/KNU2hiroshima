@@ -1,6 +1,7 @@
 #기숙사에 관하여
 
 [히로시마대학 홈페이지 이케노우에 기숙사 페이지](https://www.hiroshima-u.ac.jp/nyugaku/shien/jyuukyo/gakuseisyukusya/ikenoue)
+
 [이케노우에 기숙사 설명 - 각 타입별 시설 및 기숙사비 등](https://www.hiroshima-u.ac.jp/system/files/258353/%E6%B1%A0%E3%81%AE%E4%B8%8A%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8E%E3%82%AC%E3%82%A4%E3%83%89%E3%83%96%E3%83%83%E3%82%AF2025.pdf)
 
 
